@@ -5,6 +5,7 @@ A repository for all things about MediEvil 2 found and created by the speedrunni
 
 |Level|ID|
 |---|---|
+|Intro/Main Menu|19|
 |The Museum|10|
 |Tyrannosaurus Wrecks|11|
 |The Professor's Lab|13|
